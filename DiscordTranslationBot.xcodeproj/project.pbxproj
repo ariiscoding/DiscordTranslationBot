@@ -6,10 +6,15 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXFileReference section */
+		C1201ABD2E0BB07D002CB7AB /* DiscordTranslationBot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscordTranslationBot.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		C1201AB62E0BB058002CB7AB = {
 			isa = PBXGroup;
 			children = (
+				C1201ABD2E0BB07D002CB7AB /* DiscordTranslationBot.swift */,
 			);
 			sourceTree = "<group>";
 		};
