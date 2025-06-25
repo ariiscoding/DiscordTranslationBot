@@ -36,6 +36,9 @@
 			);
 			mainGroup = C1201AB62E0BB058002CB7AB;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				C1201ABE2E0BB0FC002CB7AB /* XCRemoteSwiftPackageReference "DiscordKit" */,
+			);
 			preferredProjectObjectVersion = 77;
 			projectDirPath = "";
 			projectRoot = "";
@@ -72,6 +75,17 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		C1201ABE2E0BB0FC002CB7AB /* XCRemoteSwiftPackageReference "DiscordKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftcordApp/DiscordKit";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = C1201AB72E0BB058002CB7AB /* Project object */;
 }
